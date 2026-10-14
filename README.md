@@ -104,7 +104,7 @@ Fictional patient information was used for testing.
 
 ### 5. Appointment Status Change Workflow
 
-![Appointment Status Change Workflow](screenshots/The%20Status%20Change%20Workflow%20with%20the%20approved%20and%20declined%20filter.png)
+![Appointment Status Change Workflow](screenshots/The%20status%20change%20workflow%20with%20the%20Approved%20and%20Declined%20filter..png)
 
 ## 🚀 Future Improvements
 
