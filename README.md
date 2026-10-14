@@ -92,3 +92,23 @@ HealthConnect is an educational prototype, not a production-ready healthcare sys
 ## Author
 
 Created as a hands-on project to develop practical no-code automation skills.
+
+
+## 📸 Project Screenshots
+
+### 1. Appointment Request Form
+![Appointment Form](screenshots/Appointment%20Form.png)
+
+### 2. Google Sheets Appointment Responses
+![Google Sheet Response](screenshots/Google%20Sheet%20Response.png)
+
+### 3. Example Patient Confirmation Email
+![Example Email Confirmation](screenshots/Example%20Email%20Confirmation.jpeg)
+
+### 4. New Appointment Workflow
+![New Appointment Workflow](screenshots/The%20New%20Appointment%20Workflow.png)
+
+### 5. Appointment Status Change Workflow
+![Status Change Workflow](screenshots/The%20Status%20Change%20Workflow%20with%20the%20approved%20and%20declined%20filter.png)
+
+*Note: This project is an educational automation prototype using sample data. Real patient information should not be used without appropriate privacy, security, and compliance safeguards.*
