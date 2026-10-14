@@ -1,0 +1,13 @@
+# HealthConnect Project Screenshots
+
+This folder contains visual evidence of the HealthConnect appointment automation workflows.
+
+Planned screenshots:
+- `appointment-form.png` — Google Forms appointment request form.
+- `google-sheets-status.png` — Google Sheets patient records and appointment status dropdown.
+- `new-request-zap.png` — Zapier workflow for new appointment requests.
+- `status-update-zap.png` — Zapier workflow for appointment status notifications.
+- `approval-email.png` — Example approval email using fictional patient information.
+- `decline-email.png` — Example decline email using fictional patient information.
+
+All screenshots should use fictional test data and must not expose private patient information, email addresses, or API keys.
